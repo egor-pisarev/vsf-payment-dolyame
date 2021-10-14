@@ -1,0 +1,2 @@
+export const SET_DOLYAME_INFO = 'SET_DOLYAME_INFO'
+export const SET_DOLYAME_DATA = 'SET_DOLYAME_DATA'
